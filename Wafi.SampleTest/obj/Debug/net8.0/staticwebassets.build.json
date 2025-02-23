@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AFhT1JjDteq3Y29/bj9q8zXkUTc0Wu7PlP6ruLJ3JcQ=",
+  "Source": "Wafi.SampleTest",
+  "BasePath": "_content/Wafi.SampleTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

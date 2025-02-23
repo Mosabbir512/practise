@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|c:\\users\\md mosabbir\\source\\repos\\wafi.sampletest2222\\wafi.sampletest\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|c:\\users\\md mosabbir\\source\\repos\\wafi.sampletest2222\\wafi.sampletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|c:\\users\\md mosabbir\\source\\repos\\wafi.sampletest2222\\wafi.sampletest\\dtos\\bookingcalendardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|solutionrelative:dtos\\bookingcalendardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|c:\\users\\md mosabbir\\source\\repos\\wafi.sampletest2222\\wafi.sampletest\\migrations\\20250222173815_addmigragtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|solutionrelative:migrations\\20250222173815_addmigragtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|c:\\users\\md mosabbir\\source\\repos\\wafi.sampletest2222\\wafi.sampletest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|c:\\users\\md mosabbir\\source\\repos\\wafi.sampletest2222\\wafi.sampletest\\migrations\\20250222173713_clear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|solutionrelative:migrations\\20250222173713_clear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|c:\\users\\md mosabbir\\source\\repos\\wafi.sampletest2222\\wafi.sampletest\\dtos\\createupdatebookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|solutionrelative:dtos\\createupdatebookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|c:\\users\\md mosabbir\\source\\repos\\wafi.sampletest2222\\wafi.sampletest\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|solutionrelative:entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|c:\\users\\md mosabbir\\source\\repos\\wafi.sampletest2222\\wafi.sampletest\\dtos\\bookingfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|solutionrelative:dtos\\bookingfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|c:\\users\\md mosabbir\\source\\repos\\wafi.sampletest2222\\wafi.sampletest\\wafi.sampletest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|solutionrelative:wafi.sampletest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|c:\\users\\md mosabbir\\source\\repos\\wafi.sampletest2222\\wafi.sampletest\\wafidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|solutionrelative:wafidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|c:\\users\\md mosabbir\\source\\repos\\wafi.sampletest2222\\wafi.sampletest\\migrations\\20250208173356_added_car_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2100A4F9-5806-4A4F-BDAE-070124553E03}|Wafi.SampleTest.csproj|solutionrelative:migrations\\20250208173356_added_car_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250222173713_clear.cs",
+              "DocumentMoniker": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Migrations\\20250222173713_clear.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250222173713_clear.cs",
+              "ToolTip": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Migrations\\20250222173713_clear.cs",
+              "RelativeToolTip": "Migrations\\20250222173713_clear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:37:14.119Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAASwL4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:34:43.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250222173815_addMigragtion.cs",
+              "DocumentMoniker": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Migrations\\20250222173815_addMigragtion.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250222173815_addMigragtion.cs",
+              "ToolTip": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Migrations\\20250222173815_addMigragtion.cs",
+              "RelativeToolTip": "Migrations\\20250222173815_addMigragtion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:38:16.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingCalendarDto.cs",
+              "DocumentMoniker": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Dtos\\BookingCalendarDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\BookingCalendarDto.cs",
+              "ToolTip": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Dtos\\BookingCalendarDto.cs",
+              "RelativeToolTip": "Dtos\\BookingCalendarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:34:40.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T16:41:55.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:42:41.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUpdateBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Dtos\\CreateUpdateBookingDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CreateUpdateBookingDto.cs",
+              "ToolTip": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Dtos\\CreateUpdateBookingDto.cs",
+              "RelativeToolTip": "Dtos\\CreateUpdateBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:11:45.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "Entities\\Booking.cs",
+              "ToolTip": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Entities\\Booking.cs",
+              "RelativeToolTip": "Entities\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:07:54.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Dtos\\BookingFilterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\BookingFilterDto.cs",
+              "ToolTip": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Dtos\\BookingFilterDto.cs",
+              "RelativeToolTip": "Dtos\\BookingFilterDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:43:17.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WafiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\WafiDbContext.cs",
+              "RelativeDocumentMoniker": "WafiDbContext.cs",
+              "ToolTip": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\WafiDbContext.cs",
+              "RelativeToolTip": "WafiDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:34:11.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Wafi.SampleTest.csproj",
+              "DocumentMoniker": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Wafi.SampleTest.csproj",
+              "RelativeDocumentMoniker": "Wafi.SampleTest.csproj",
+              "ToolTip": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Wafi.SampleTest.csproj",
+              "RelativeToolTip": "Wafi.SampleTest.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T15:21:38.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250208173356_Added_Car_Table.cs",
+              "DocumentMoniker": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Migrations\\20250208173356_Added_Car_Table.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250208173356_Added_Car_Table.cs",
+              "ToolTip": "C:\\Users\\MD MOSABBIR\\source\\repos\\Wafi.SampleTest2222\\Wafi.SampleTest\\Migrations\\20250208173356_Added_Car_Table.cs",
+              "RelativeToolTip": "Migrations\\20250208173356_Added_Car_Table.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:33:56.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
